@@ -5,6 +5,13 @@ class LoginPage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold();
+    return Scaffold(
+      backgroundColor: Colors.blue,
+      body: Column(
+        children: [
+          const Text('Ini Login Page')
+        ],
+      ),
+    );
   }
 }
