@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.ini_arisan">
+        package="com.example.ini_arisan">
    <application
         android:label="ini_arisan"
         android:name="${applicationName}"
